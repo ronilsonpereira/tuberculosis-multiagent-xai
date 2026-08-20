@@ -46,7 +46,7 @@ class TuberculosisDecisionSystem:
         self.eval_agent = EvaluationAgent()
         self.decision_agent = DecisionSupportAgent()
 
-    def run(() -> Dict[str, Any]:
+    def run() -> Dict[str, Any]:
         """
         Executa a pipeline completa:
         1. Carga e tratamento dos dados (DataAgent)
