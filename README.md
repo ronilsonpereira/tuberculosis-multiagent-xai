@@ -24,5 +24,5 @@ A solução organiza o fluxo de aprendizado de máquina em agentes especializado
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/tuberculosis-multiagent-xai.git](https://github.com/seu-usuario/tuberculosis-multiagent-xai.git)
+   git clone https://github.com/ronilsonpereira/tuberculosis-multiagent-xai.git
    cd tuberculosis-multiagent-xai
